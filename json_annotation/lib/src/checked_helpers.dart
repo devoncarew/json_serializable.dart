@@ -16,7 +16,7 @@ T $checkedCreate<T>(
   T Function(
     S Function<S>(
       String,
-      _CastFunction<S>, {
+      S Function(Object?), {
       Object? Function(Map, String)? readValue,
     }),
   )

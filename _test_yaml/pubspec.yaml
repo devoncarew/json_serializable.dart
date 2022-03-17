@@ -12,6 +12,7 @@ dev_dependencies:
   checked_yaml: any
   json_annotation: ^4.4.0
   json_serializable: any
+  path: ^1.8.0
   test: ^1.6.0
   yaml: ^3.0.0
 
